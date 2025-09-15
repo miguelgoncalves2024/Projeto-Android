@@ -1,3 +1,3 @@
 # Projeto Android
 
-Um projeto para treinar as minhas habilidades de HTML E CSS. Uma página de um blog onde é abordado curiosidades interessantes sobre o Sistema Operativo Android.
+A project to practice my HTML and CSS skills. A blog page that covers interesting facts about the Android Operating System.
